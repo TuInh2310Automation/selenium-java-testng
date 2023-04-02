@@ -7,6 +7,7 @@ public class ClassTesst {
 	int c;
 	int d;
 	int e ;
+	int f;
 	
 
 }
